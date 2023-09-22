@@ -5,4 +5,12 @@
     background-color: white;
  }
 
+ .btn{
+    background-color: rgb(53, 162, 205);
+ }
+
+ .d{
+    border: solid #1E3673;
+    color: rgb(53, 162, 205);
+ }
  
